@@ -1,4 +1,4 @@
-![Banner](./banner.jpg)
+![Banner](./banner.png)
 
 ### about
 `0x00 // software, tooling & extensions`
