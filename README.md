@@ -1,13 +1,24 @@
-![Banner](./banner.png)
+<p align="center">
+  <img src="./banner.png" alt="Mono no Aware" />
+</p>
 
-### about
-`0x00 // software, tooling & extensions`
+### `0x00` // about
 
 Building desktop applications, browser extensions, and developer tools that automate workflows and solve practical problems. Focused on fast, lightweight software, clean interfaces, and solid architecture under the hood.
 
-✉️ [mononoawares.dev@gmail.com](mailto:mononoawares.dev@gmail.com)
+`contact:` [mononoawares.dev@gmail.com](mailto:mononoawares.dev@gmail.com)
 
-### core skills
+---
+
+### `0x01` // selected work
+
+- **[StreamClip](https://github.com/Mono-no-Awares/StreamClip)** — Chrome & Firefox MV3 extension for instant MP4 clipping from Twitch & Kick streams and VODs (`HLS`, `fMP4`, `mux.js`)
+- **[ym-downloader-extension](https://github.com/Mono-no-Awares/ym-downloader-extension)** — Cross-browser Yandex Music downloader with OAuth and client-side `AES-CTR` stream decryption (`320 kbps`)
+
+---
+
+### `0x02` // core stack
+
 ![Skills](./icons.svg)
 
 - **languages:** typescript · python · rust · c++ · javascript
