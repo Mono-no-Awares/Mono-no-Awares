@@ -13,7 +13,7 @@ Building desktop applications, browser extensions, and developer tools that auto
 ### `0x01` // selected work
 
 - **[StreamClip](https://github.com/Mono-no-Awares/StreamClip)** — Chrome & Firefox MV3 extension for instant MP4 clipping from Twitch & Kick streams and VODs (`HLS`, `fMP4`, `mux.js`)
-- **[ym-downloader-extension](https://github.com/Mono-no-Awares/ym-downloader-extension)** — Cross-browser Yandex Music downloader with OAuth and client-side `AES-CTR` stream decryption (`320 kbps`)
+- **[ym-downloader-extension](https://github.com/Mono-no-Awares/yandexmusic-downloader-extension)** — Cross-browser Yandex Music downloader with OAuth and client-side `AES-CTR` stream decryption (`320 kbps`)
 
 ---
 
