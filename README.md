@@ -12,6 +12,7 @@ Building desktop applications, browser extensions, and developer tools that auto
 
 ### `0x01` // selected work
 
+- **[Awase](https://github.com/Mono-no-Awares/Awase)** — Fast, low-RAM Windows desktop music player in Rust & Tauri v2 unifying Local Lossless, Yandex Music, Spotify & SoundCloud (`rodio`, `HLS/fMP4`, `Discord RPC`)
 - **[StreamClip](https://github.com/Mono-no-Awares/StreamClip)** — Chrome & Firefox MV3 extension for instant MP4 clipping from Twitch & Kick streams and VODs (`HLS`, `fMP4`, `mux.js`)
 - **[ym-downloader-extension](https://github.com/Mono-no-Awares/yandexmusic-downloader-extension)** — Cross-browser Yandex Music downloader with OAuth and client-side `AES-CTR` stream decryption (`320 kbps`)
 
@@ -22,5 +23,5 @@ Building desktop applications, browser extensions, and developer tools that auto
 ![Skills](./icons.svg)
 
 - **languages:** typescript · python · rust · c++ · javascript
-- **apps & extensions:** electron · react · node.js · tailwind · webextensions api
-- **tools & data:** postgresql · docker · linux · git
+- **apps & extensions:** tauri · electron · react · node.js · tailwind · webextensions api
+- **tools & data:** postgresql · sqlite · docker · linux · git
